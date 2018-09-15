@@ -4,3 +4,6 @@
 [submodule "debian"]
 	path = debian
 	url = https://github.com/www3838438/debian.git
+[submodule "vagrant-debian-开发"]
+	path = vagrant-debian-开发
+	url = https://github.com/13768324554/vagrant-debian-jessie.git

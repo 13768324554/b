@@ -4,4 +4,6 @@
 
 git submodule add https://github.com/13768324554/dbu.git linux安装管理器
 
-git submodule add https://github.com/www3838438/debian.git debian
+
+
+git submodule add https://github.com/13768324554/vagrant-debian-jessie.git vagrant-debian-开发
