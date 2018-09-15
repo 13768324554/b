@@ -1,0 +1,3 @@
+[submodule "linux安装管理器"]
+	path = linux安装管理器
+	url = https://github.com/13768324554/dbu.git
